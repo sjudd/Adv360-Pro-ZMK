@@ -67,7 +67,7 @@
             >;
         };
 
-        layer_3 {
+        layer_mac {
             bindings = <
  &trans              &trans  &trans  &trans            &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans              &trans  &trans  &trans            &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
