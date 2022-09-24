@@ -31,7 +31,7 @@
         flavor = "tap-preferred";
         bindings = <&kp>, <&kp>;
     };
-  }
+  };
 
     keymap {
         compatible = "zmk,keymap";
@@ -67,7 +67,7 @@
             >;
         };
 
-        layer_3 {
+        layer_mac {
             bindings = <
  &trans              &trans  &trans  &trans            &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans              &trans  &trans  &trans            &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans

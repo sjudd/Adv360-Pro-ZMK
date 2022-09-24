@@ -10,12 +10,6 @@ label = "macro_open_file";
 #binding-cells = <0>;
 bindings = <&sk LSHFT>, <&sk RGUI>, <&kp N>;
 };
-macro_test: macro_test{
-compatible = "zmk,behavior-macro";
-label = "macro_test";
-#binding-cells = <0>;
-bindings = ;
-};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
